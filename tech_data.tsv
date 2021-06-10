@@ -1,0 +1,10 @@
+          Cap     ETA_EL   Fuel_P          c_var_other  EMF
+*Units    MW      -        Euro/MWhtherm   Euro/Mwhel   t CO2/MWhtherm
+CCGT      29555   0.54     12.8            1.5          0.2048
+GT_GasOil 4400    0.28     12.8            1.5          0.2048
+Hydro     5256    1.00     0.0             1.5          0.0000
+Coal      22458   0.42     7.4             2.6          0.3420
+Lignite   21067   0.37     3.4             3.0          0.3996
+Nuclear   8114    0.33     1.8             0.7          0.0000
+Wind      61114   1.00     0.0             1.4          0.0000
+Solar     46471   1.00     0.0             1.0          0.0000
