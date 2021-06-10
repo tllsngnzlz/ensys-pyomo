@@ -1,2 +1,2 @@
 dependencies:
-  - glpk == 0.4.65
+  - glpk == 4.65
