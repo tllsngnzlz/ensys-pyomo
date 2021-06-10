@@ -1,2 +1,5 @@
 dependencies:
-  - glpk == 4.65
+  - glpk
+  - pip:
+    - pyomo
+    - pandas

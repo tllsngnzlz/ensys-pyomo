@@ -1,2 +1,2 @@
-pyomo==6.0.1
-pandas==1.2.4
+pyomo
+pandas
