@@ -1,4 +1,4 @@
-          Cap     ETA_EL   Fuel_P          c_var_other  EMF
+tech          Cap     ETA_EL   Fuel_P          c_var_other  EMF
 *Units    MW      -        Euro/MWhtherm   Euro/Mwhel   t CO2/MWhtherm
 CCGT      29555   0.54     12.8            1.5          0.2048
 GT_GasOil 4400    0.28     12.8            1.5          0.2048
